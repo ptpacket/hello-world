@@ -33,4 +33,4 @@ printf("%3.1d etc) means each line in the field is 3 chars wide before dec and 1
 
 did exercises
 
-1.3 for_loop.c 
+1.3 for_loop.c does the same as list_temps_cf.c but with a for loop instead and backwards from 300 to 0 degrees
