@@ -6,7 +6,8 @@ I will be using this hello-world repository as I work through "The C programming
 Ideas for small programs:
 1. Get list of unique words from some text
 2. primes up to x
-3. 
+3. ip/icmp/tcp/udp checksum
+4. 
 
 
 Section 1:
