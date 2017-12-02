@@ -76,4 +76,4 @@ newline.c is my answer to 1-12
 
 1.6. array.c counts the frequency of each numerical digit 0-9, number of 'white spaces' (space, tab, new line), and number of other digits
 
-num_words.c is the frequency of word lengths in input <working>
+num_words.c is the frequency of word lengths in input exercise 1-13
