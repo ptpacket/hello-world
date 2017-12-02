@@ -71,3 +71,4 @@ read_blank.c is my answer to exercise 1-9 replacing duplicate spaces
 if (){}
 else if (){}
 
+newline.c is my answer to 1-12
