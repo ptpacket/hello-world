@@ -34,4 +34,21 @@ printf("%3.1d etc) means each line in the field is 3 chars wide before dec and 1
 
 did exercises
 
-1.3 for_loop.c does the same as list_temps_cf.c but with a for loop instead and backwards from 300 to 0 degrees
+1.3. for_loop.c does the same as list_temps_cf.c but with a for loop instead and backwards from 300 to 0 degrees
+
+1.4. for_loop_define.c does the same as for_loop.c but with the variables defined before the main program. they use caps names to show this
+
+how they know the types here I don't know
+
+1.5. 
+1.5.1. read_char.c reads in a single character from terminal using getchar() and then prints it on new line
+
+it is good practice to put assignments within longer expressions such as "c=getchar()" within the while definition
+
+for EOF I got -1
+
+1.5.2. count_while.c counts all the entered characters before "ctrl+D" and then prints the solution. it includes the newline as a character 
+
+%ld prints long in printf
+
+count_for.c does same with for loop
