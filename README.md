@@ -52,3 +52,11 @@ for EOF I got -1
 %ld prints long in printf
 
 count_for.c does same with for loop
+
+both the count_while and count_for return 0 if there is no input to the getchar() condition in the while/for definitions. This makes sense
+
+1.5.3. count_lines.c counts the number of new lines and prints it after ctrl+d
+
+== means equal to, = is assignment
+characters in '' means the integer value of the numerical value of character set (e.g. 'A' is 65, or '\n' is 10)
+
