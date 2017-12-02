@@ -60,6 +60,7 @@ both the count_while and count_for return 0 if there is no input to the getchar(
 1.5.3. count_lines.c counts the number of new lines and prints it after ctrl+d
 
 == means equal to, = is assignment
+
 characters in '' means the integer value of the numerical value of character set (e.g. 'A' is 65, or '\n' is 10)
 
 read_blank.c is my answer to exercise 1-9 replacing duplicate spaces
@@ -74,3 +75,5 @@ else if (){}
 newline.c is my answer to 1-12
 
 1.6. array.c counts the frequency of each numerical digit 0-9, number of 'white spaces' (space, tab, new line), and number of other digits
+
+num_words.c is the frequency of word lengths in input <working>
