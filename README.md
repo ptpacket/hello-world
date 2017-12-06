@@ -80,3 +80,6 @@ num_words.c is the frequency of word lengths in input exercise 1-13
 freq_char.c is the frequency of chars (works for lower and upper case no numbers or spaces but you get the idea) 1.14 quiz
 
 1.7 Functions - temp_function.c is my answer to 1.15
+
+1.8 Arguments - call by value is how c works. it creates a temp variable to save the current value of parameter rather than use the original. to use and change the original you can use the pointer (ch 5). Arrays always use the pointers no copying of data occurs
+
