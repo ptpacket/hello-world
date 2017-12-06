@@ -77,4 +77,4 @@ newline.c is my answer to 1-12
 1.6. array.c counts the frequency of each numerical digit 0-9, number of 'white spaces' (space, tab, new line), and number of other digits
 
 num_words.c is the frequency of word lengths in input exercise 1-13
-freq_char.c is the frequency of chars (works for lower and upper case no numbers or spaces but you get the idea)
+freq_char.c is the frequency of chars (works for lower and upper case no numbers or spaces but you get the idea) 1.14 quiz
