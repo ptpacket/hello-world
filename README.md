@@ -78,3 +78,5 @@ newline.c is my answer to 1-12
 
 num_words.c is the frequency of word lengths in input exercise 1-13
 freq_char.c is the frequency of chars (works for lower and upper case no numbers or spaces but you get the idea) 1.14 quiz
+
+1.7 Functions - temp_function.c is my answer to 1.15
